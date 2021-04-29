@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfSupplier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Supplier>
+    <sID>1</sID>
+    <sName>Raj</sName>
+    <city>vellore</city>
+    <phoneNo>1234567890</phoneNo>
+    <email>raj@gmail.com</email>
+  </Supplier>
+  <Supplier>
+    <sID>2</sID>
+    <sName>Sekar</sName>
+    <city>chennai</city>
+    <phoneNo>9087654321</phoneNo>
+    <email>sekar@gmail.com</email>
+  </Supplier>
+  <Supplier>
+    <sID>3</sID>
+    <sName>Raja</sName>
+    <city>bangalore</city>
+    <phoneNo>5678901234</phoneNo>
+    <email>raja@gmail.com</email>
+  </Supplier>
+</ArrayOfSupplier>
